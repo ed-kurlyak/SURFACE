@@ -22,3 +22,5 @@ The structure and logic of the code have been faithfully preserved to match the 
 1. Open the solution in **Visual Studio 2019**.
 2. Build the project using your preferred configuration (Debug/Release).
 3. Run the compiled `.exe` to see the wireframe surface rendering.
+
+<img src="https://github.com/ed-kurlyak/SURFACE/blob/main/pics/SURFACE.png">
